@@ -226,5 +226,5 @@ By building this project, I practiced:
 
 This project is a complete **FastAPI Medical Appointment System** designed to simulate a real-world clinic booking workflow in a simple and structured way.
 
-````
+
 
