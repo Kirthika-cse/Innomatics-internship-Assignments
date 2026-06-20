@@ -6,7 +6,7 @@ This section presents the execution outputs of the **RAG-Based Customer Support 
 
 ## 1. System Execution and Output
 
-![System Execution and Output](System Execution and Output.png)
+(System Execution and Output.png)
 
 ### Description
 This screenshot demonstrates the successful execution of the RAG-Based Customer Support AI Assistant. The user entered the query **"APP IS NOT RESPONDING"** through the command-line interface. The system processed the query using the Retrieval-Augmented Generation (RAG) workflow, retrieved relevant information from the FAISS vector database, and generated a context-aware response using the Groq LLaMA model.
@@ -22,7 +22,7 @@ This screenshot demonstrates the successful execution of the RAG-Based Customer 
 
 ## 2. Query Response Generation
 
-![Query Response Generation](Query Response Generation.png)
+(Query Response Generation.png)
 
 ### Description
 This screenshot demonstrates the response generation capability of the RAG-Based Customer Support Assistant. When the user entered the query **"WHAT IS THE SUBSCRIPTION PLAN"**, the system searched the knowledge base, retrieved relevant information from the FAISS vector database, and generated an appropriate response containing subscription plan details and pricing information.
@@ -38,7 +38,7 @@ This screenshot demonstrates the response generation capability of the RAG-Based
 
 ## 3. Customer Query Handling
 
-![Customer Query Handling](Customer Query Handling.png)
+(Customer Query Handling.png)
 
 ### Description
 This screenshot demonstrates how the RAG-Based Customer Support Assistant handles customer-related issues and generates troubleshooting responses. When the user entered the query **"FAMILY MEMBER UNABLE TO CONNECT"**, the system retrieved relevant information and generated step-by-step troubleshooting instructions using the Groq LLaMA model.
@@ -54,7 +54,7 @@ This screenshot demonstrates how the RAG-Based Customer Support Assistant handle
 
 ## 4. Invalid Query Handling
 
-![Invalid Query Handling](Invalid Query Handling.png)
+(Invalid Query Handling.png)
 
 ### Description
 This screenshot demonstrates the system's ability to handle invalid or unclear user queries. When the random text **"KIHBFMJDF"** was entered, the system could not identify any meaningful context from the knowledge base. Instead of generating incorrect information, it produced a fallback response requesting the user to rephrase the query.
