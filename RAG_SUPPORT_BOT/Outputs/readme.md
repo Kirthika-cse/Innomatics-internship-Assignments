@@ -4,7 +4,7 @@
 
 **Screenshot Name:** `system_execution_output.png`
 
-![System Execution Output](screenshots/system_execution_output.png)
+![System Execution Output](Outputs/Customer Query Handling.png)
 
 **Description:**
 This screenshot demonstrates the successful execution of the RAG-Based Customer Support AI Assistant. The user entered the query **"APP IS NOT RESPONDING"** through the command-line interface. The system processed the query using the Retrieval-Augmented Generation (RAG) workflow, retrieved relevant information from the FAISS vector database, and generated a context-aware response using the Groq LLaMA model. This output validates the integration of LangChain, FAISS, LangGraph, and Groq LLaMA for intelligent customer support.
