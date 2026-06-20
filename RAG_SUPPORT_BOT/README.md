@@ -146,7 +146,7 @@ Route Decision
 
 ## 1. System Execution and Output
 
-![System Execution and Output](System%20Execution%20and%20Output.png)
+(System Execution and Output.png)
 
 **Description:** Demonstrates successful execution of the RAG-Based Customer Support Assistant for the query **"APP IS NOT RESPONDING"** using FAISS retrieval and Groq LLaMA response generation.
 
@@ -154,7 +154,7 @@ Route Decision
 
 ## 2. Query Response Generation
 
-![Query Response Generation](Query%20Response%20Generation.png)
+(Query Response Generation.png)
 
 **Description:** Shows AI-generated response for the query **"WHAT IS THE SUBSCRIPTION PLAN"** by retrieving relevant information from the knowledge base.
 
@@ -162,7 +162,7 @@ Route Decision
 
 ## 3. Customer Query Handling
 
-![Customer Query Handling](Customer%20Query%20Handling.png)
+(Customer Query Handling.png)
 
 **Description:** Demonstrates troubleshooting support for the query **"FAMILY MEMBER UNABLE TO CONNECT"** using the RAG workflow.
 
@@ -170,7 +170,7 @@ Route Decision
 
 ## 4. Invalid Query Handling
 
-![Invalid Query Handling](Invalid%20Query%20Handling.png)
+(Invalid Query Handling.png)
 
 **Description:** Shows how the system handles invalid input by generating an appropriate fallback response and requesting a clearer query.
 
